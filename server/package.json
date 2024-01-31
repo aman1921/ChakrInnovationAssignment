@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Aman Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
