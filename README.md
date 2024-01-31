@@ -16,3 +16,6 @@
 
   ## node index.js 
      run 'node index.js' to run javascript files.
+     
+ ## here is the deployed link for this project -
+    'https://chakrinnovationdashboard.onrender.com/'
